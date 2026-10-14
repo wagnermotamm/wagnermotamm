@@ -1,37 +1,66 @@
 # Wagner Mota
 
-Brazilian Air Force officer and software engineer. I build real-time simulation, aerospace systems, and mission-critical software.
+**Software Engineer | Aerospace & Defense Systems | C++ & Python**
 
-Master's candidate in Electronics and Computer Engineering at the Aeronautics Institute of Technology (ITA), with work in applied computing, aerospace-oriented systems, regional positioning, and resilient positioning, navigation, and timing.
+Brazilian Air Force officer and software engineer working on real-time flight simulation, aircraft-system software, and mission-critical systems. My experience spans defense training systems, executive aviation platforms at Embraer, and infrastructure operations and team leadership at HP.
 
-## What I work on
+I am pursuing a master's degree in Electronics and Computer Engineering at the Aeronautics Institute of Technology (ITA), with a focus on artificial intelligence and applied computing. My research interests include regional positioning and resilient positioning, navigation, and timing (PNT).
 
-- Real-time flight simulation and aircraft-system software in C++ and Python
-- Integration of software, avionics interfaces, hardware, and training environments
-- Operational data platforms: monitoring, reliability, and decision support
-- Service delivery and infrastructure operations, with ITIL practice
+I am interested in applying this background to resilient systems and cyber mission support.
 
-## Experience
+[LinkedIn](https://www.linkedin.com/in/wagnermota/) · [Email](mailto:the.wagner.mota@gmail.com)
 
-- **Brazilian Air Force**, First Lieutenant, software engineer for real-time simulation and defense systems. São José dos Campos, since August 2021. Flight simulation and training systems for C-95M, A-29, C-98, and T-27, including avionics, cockpit systems, and virtual and mixed reality.
-- **Embraer**, software engineer for executive aviation maintenance, fleet support, and pricing platforms. São José dos Campos, April 2014 to August 2021. Maintenance-cost models, Salesforce and CPQ, aircraft-on-ground monitoring, and fleet reliability analysis.
-- **HP**, senior IT support analyst and team lead for infrastructure and service delivery. São José dos Campos, May 2009 to April 2013. Incident management, SLA reviews, and manufacturing IT environments.
+## Engineering expertise
 
-## Education
+| Area | Experience |
+| --- | --- |
+| Software development | C++ and Python for real-time simulation and aircraft systems |
+| Systems integration | Software, hardware, avionics interfaces, and cockpit systems |
+| Simulation and training | Flight simulation, virtual reality, and mixed reality environments |
+| Operational analytics | Maintenance-cost models, aircraft-on-ground monitoring, and fleet reliability analysis |
+| Infrastructure and leadership | IT service delivery, incident management, SLA reviews, and team leadership |
 
-- ITA, master's candidate, Electronics and Computer Engineering, artificial intelligence. 2026–2027.
-- UniBF, postgraduate degree, Information Systems. 2019–2021.
-- UniBF, MBA, Data Warehouse and Business Intelligence. 2018–2021.
-- ETEP, Analyst and Developer of Systems. 2014–2017.
-- UNIP, Computer Engineering studies. 2004–2006.
+## Professional experience
+
+### Brazilian Air Force — First Lieutenant & Software Engineer
+*August 2021–present · São José dos Campos, Brazil*
+
+- Develop software for real-time flight simulation and defense training systems.
+- Work on simulation and training systems for C-95M, A-29, C-98, and T-27 aircraft.
+- Integrate software with avionics interfaces, cockpit systems, and hardware, including virtual and mixed reality training environments.
+
+### Embraer — Software Engineer
+*April 2014–August 2021 · São José dos Campos, Brazil*
+
+- Worked on software platforms for executive aviation maintenance, fleet support, and pricing.
+- Worked with maintenance-cost models, Salesforce, and CPQ.
+- Supported aircraft-on-ground monitoring and fleet reliability analysis.
+
+### HP — Senior IT Support Analyst & Team Lead
+*May 2009–April 2013 · São José dos Campos, Brazil*
+
+- Supported infrastructure operations and IT service delivery in manufacturing environments.
+- Worked on incident management and SLA reviews.
+- Held team leadership responsibilities in infrastructure and service delivery.
+
+## Education and research
+
+- **Aeronautics Institute of Technology (ITA)** — Master's studies in Electronics and Computer Engineering, with a focus on artificial intelligence. 2026–2027; expected completion in 2027.
+- **UniBF** — Postgraduate degree in Information Systems. 2019–2021.
+- **UniBF** — MBA in Data Warehouse and Business Intelligence. 2018–2021.
+- **ETEP** — Systems Analysis and Development. 2014–2017.
+- **UNIP** — Studies in Computer Engineering. 2004–2006.
+
+**Research interests:** applied computing, aerospace systems, regional positioning, and resilient PNT.
 
 ## Certification and languages
 
-- ITIL
-- Portuguese, native
-- English, full professional
+- **Certification:** ITIL
+- **Languages:** Portuguese (native) · English (full professional proficiency)
 
 ## Contact
 
-- Email: the.wagner.mota@gmail.com
-- LinkedIn: https://www.linkedin.com/in/wagnermota/
+For professional opportunities and technical collaboration:
+
+- [LinkedIn](https://www.linkedin.com/in/wagnermota/)
+- [the.wagner.mota@gmail.com](mailto:the.wagner.mota@gmail.com)
