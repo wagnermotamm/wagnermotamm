@@ -3,13 +3,7 @@
 ### Brazilian Air Force Officer | Aerospace & Defense Software Engineer
 
 <p align="center">
-  <strong>Simulação de voo e aviônicos · Sistemas espaciais e telemetria · Software crítico aeroespacial</strong>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,git,github,docker,linux,visualstudio&perline=6&theme=dark" alt="Linguagens e ferramentas" />
-  </a>
+  <strong>Simulação de voo | Sistemas aviônicos | Inteligência artificial | Sistemas espaciais | Telemetria e posicionamento GNSS | Engenharia de software | Desenvolvimento full stack | Defesa cibernética de sistemas de simulação e missão</strong>
 </p>
 
 <p align="center">
@@ -26,7 +20,7 @@ Sou 1º Tenente da Força Aérea Brasileira (FAB), com experiência em engenhari
 
 Minha trajetória profissional inclui atuação na Força Aérea Brasileira, Embraer e Hewlett-Packard (HP), abrangendo desenvolvimento de software, integração de sistemas, infraestrutura de TI e liderança técnica.
 
-Atualmente, trabalho com simuladores de voo militares, desenvolvendo e integrando componentes de software, sistemas aviônicos, instrumentos digitais e ambientes de realidade virtual.
+Atualmente, trabalho com simuladores de voo militares, desenvolvendo e integrando componentes de software, sistemas aviônicos, instrumentos digitais e ambientes de realidade virtual. Para o Estado-Maior da Aeronáutica, também participo de simulações de planejamento operacional conhecidas como AZUVER: um cenário de conflito entre dois países, usado para estudar e planejar as missões.
 
 Sou mestrando em Ciências e Tecnologias Espaciais no Instituto Tecnológico de Aeronáutica (ITA), na área de Sistemas Espaciais, Ensaios e Lançamentos (CTE-E), com atividades acadêmicas relacionadas à simulação de satélites, sistemas GNSS/PNT, telemetria e plataformas de processamento de dados espaciais.
 
@@ -34,33 +28,41 @@ Tenho interesse na aplicação de inteligência artificial e segurança ciberné
 
 ---
 
+## Habilidades
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,lua,html,css&perline=6&theme=dark" alt="C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, Lua, HTML e CSS" />
+  </a>
+</p>
+
+C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, Lua, HTML, CSS e SQL.
+
+## Ferramentas utilizadas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,blender,photoshop,nodejs,npm,vue,react,wordpress,git,github,gitlab&perline=6&theme=dark" alt="Visual Studio, Blender, Photoshop, Node.js, npm, Vue, React, WordPress, Git, GitHub e GitLab" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,docker,linux,heroku,matlab,fastapi&perline=6&theme=dark" alt="PostgreSQL, Docker, Linux, Heroku, MATLAB e FastAPI" />
+  </a>
+</p>
+
+Visual Studio 2022, Blender, Photoshop, Cursor, Node.js, npm, Vue, React, WordPress, Git, GitHub, GitLab, PostgreSQL, pgAdmin, Docker, Linux, Heroku, MATLAB, FastAPI, X-Plane 12, X-Plane SDK, OpenGL, ANSYS SCADE e Scrum.
+
 ## Competências Técnicas
 
 ### Desenvolvimento de Software
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py&perline=7&theme=dark" alt="C, C++, C#, Java, JavaScript, TypeScript e Python" />
-  </a>
-</p>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio&perline=5&theme=dark" alt="Git, GitHub, Docker, Linux e Visual Studio" />
-  </a>
-</p>
-
-- **Linguagens:** C, C++, Python, C#, Java, JavaScript, TypeScript, SQL
-- **Engenharia:** Orientação a Objetos, Arquitetura de Software, Sistemas em Tempo Real, APIs REST
-- **Ferramentas:** Git, GitHub, Docker, Linux, Visual Studio
+- **Linguagens:** C, C++, Python, C#, Java, JavaScript, TypeScript, PHP, Lua, HTML, CSS, SQL
+- **Engenharia:** Orientação a Objetos, Arquitetura de Software, Sistemas em Tempo Real, APIs REST, Desenvolvimento full stack
+- **Ferramentas:** Git, GitHub, GitLab, Docker, Linux, Visual Studio 2022, Node.js, npm, Heroku
 
 ### Simulação de Voo e Aviônicos
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,blender&perline=2&theme=dark" alt="C++ e Blender" />
-  </a>
-</p>
 
 - **Simuladores:** X-Plane 12, X-Plane SDK
 - **Aviônicos:** Garmin G1000, G600, GTN, PFD/MFD, sistemas de navegação
@@ -69,18 +71,14 @@ Tenho interesse na aplicação de inteligência artificial e segurança ciberné
 
 ### Sistemas Espaciais e Telemetria
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,py,fastapi,postgres,react,ts&perline=6&theme=dark" alt="MATLAB, Python, FastAPI, PostgreSQL, React e TypeScript" />
-  </a>
-</p>
-
 - **Simulação:** GMAT, MATLAB, Simulação Orbital, Constelações de Satélites
 - **Navegação:** GNSS, GPS, Sistemas PNT
 - **Telemetria:** Aquisição, Processamento, Armazenamento e Visualização de Dados
 - **Plataformas:** FastAPI, PostgreSQL, React, TypeScript, Leaflet
 
-### Inteligência Artificial e Cyber
+### Inteligência Artificial e defesa cibernética de missão
+
+A defesa cibernética, no meu trabalho, está ligada aos sistemas de simulação e ao planejamento de missão, inclusive nos exercícios AZUVER do Estado-Maior da Aeronáutica: proteger o software da simulação, os dados da missão e a continuidade do planejamento.
 
 **Áreas de pesquisa e interesse técnico:**
 
@@ -89,15 +87,9 @@ Tenho interesse na aplicação de inteligência artificial e segurança ciberné
 - Simulação Inteligente e Análise Preditiva
 - Engenharia de Software Seguro
 - Segurança e Resiliência de Sistemas Ciberfísicos
-- Cyber Defense e Mission Assurance
+- Defesa cibernética de sistemas de simulação e de planejamento de missão
 
 ### Engenharia e Testes de Sistemas Críticos
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,cpp,py&perline=3&theme=dark" alt="MATLAB, C++ e Python" />
-  </a>
-</p>
 
 **Competências e tecnologias de especialização:**
 
@@ -117,7 +109,7 @@ Tenho interesse na aplicação de inteligência artificial e segurança ciberné
 **1º Tenente | Engenharia de Software e Simulação Aeroespacial**  
 *2021 – Atual*
 
-Desenvolvimento, integração, manutenção e testes de sistemas de simulação de voo militar, incluindo software, aviônicos, interfaces digitais e ambientes de realidade virtual.
+Desenvolvimento, integração, manutenção e testes de sistemas de simulação de voo militar, incluindo software, aviônicos, interfaces digitais e ambientes de realidade virtual. Também desenvolvo a simulação AZUVER para o Estado-Maior da Aeronáutica, usada no planejamento de missões em um cenário de conflito entre dois países.
 
 **Principais plataformas:**
 
@@ -170,25 +162,13 @@ Mestrado em Ciências e Tecnologias Espaciais — Em andamento
 
 ### Simuladores de Voo Militares
 
-Desenvolvimento e integração de componentes de simulação, instrumentos aviônicos e sistemas de treinamento, utilizando X-Plane, C++ e tecnologias de realidade virtual.
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,blender&perline=2&theme=dark" alt="C++ e Blender" />
-  </a>
-</p>
+Desenvolvimento e integração de componentes de simulação, instrumentos aviônicos e sistemas de treinamento, utilizando X-Plane, C++ e tecnologias de realidade virtual. Inclui a simulação AZUVER, de planejamento de missões para o Estado-Maior da Aeronáutica.
 
 ### Sistema de Posicionamento Regional Brasileiro (SPRB)
 
 Desenvolvimento acadêmico de uma plataforma de simulação de constelações de satélites, processamento de telemetria e visualização de dados espaciais.
 
 **Tecnologias:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React.
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=matlab,py,fastapi,postgres,react&perline=5&theme=dark" alt="MATLAB, Python, FastAPI, PostgreSQL e React" />
-  </a>
-</p>
 
 ### Inteligência Artificial Aplicada a Sistemas Aeroespaciais
 
@@ -202,7 +182,7 @@ Interesse em engenharia de software seguro, proteção de sistemas ciberfísicos
 
 ## Áreas de Interesse
 
-Engenharia de software aeroespacial · Simulação de voo e aviônicos · Sistemas espaciais e telemetria · Software crítico
+Simulação de voo · Sistemas aviônicos · Inteligência artificial · Sistemas espaciais · Telemetria e posicionamento GNSS · Engenharia de software · Desenvolvimento full stack · Defesa cibernética de sistemas de simulação e missão
 
 ---
 
