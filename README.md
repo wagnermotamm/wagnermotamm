@@ -2,7 +2,9 @@
 
 ### Brazilian Air Force Officer | Aerospace & Defense Software Engineer
 
-**Simulação de Voo | Sistemas Aviônicos | Inteligência Artificial | Sistemas Espaciais | Telemetria | Engenharia de Software Crítico | Cyber Defense**
+<p align="center">
+  <strong>Simulação de voo e aviônicos · Sistemas espaciais e telemetria · Software crítico aeroespacial</strong>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -200,7 +202,7 @@ Interesse em engenharia de software seguro, proteção de sistemas ciberfísicos
 
 ## Áreas de Interesse
 
-Aerospace Software Engineering | Military Flight Simulation | Avionics | Space Systems | Artificial Intelligence | Cyber Defense | Mission-Critical Software
+Engenharia de software aeroespacial · Simulação de voo e aviônicos · Sistemas espaciais e telemetria · Software crítico
 
 ---
 
