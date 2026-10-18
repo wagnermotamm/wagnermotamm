@@ -1,84 +1,209 @@
 # Wagner Mota
 
-**Engenheiro de software · Sistemas aeroespaciais e de defesa · C++ e Python**
+### Brazilian Air Force Officer | Aerospace & Defense Software Engineer
 
-Oficial da Força Aérea Brasileira e engenheiro de software. Construo simulação de voo em tempo real, software de sistemas de aeronaves e sistemas de missão crítica.
+**Simulação de Voo | Sistemas Aviônicos | Inteligência Artificial | Sistemas Espaciais | Telemetria | Engenharia de Software Crítico | Cyber Defense**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wagner%20Mota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnermota/)
-[![Email](https://img.shields.io/badge/Email-the.wagner.mota%40gmail.com-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.wagner.mota@gmail.com)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,git,github,docker,linux,visualstudio&perline=6&theme=dark" alt="Linguagens e ferramentas" />
+  </a>
+</p>
 
-## Sobre
+<p align="center">
+  <a href="https://github.com/wagnermotamm">
+    <img src="https://img.shields.io/badge/GitHub-wagnermotamm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-Trabalho com sistemas de treinamento de defesa, plataformas de aviação executiva na Embraer e operação de infraestrutura com liderança de equipe na HP.
+---
 
-Estou no mestrado em Engenharia Eletrônica e Computação no Instituto Tecnológico de Aeronáutica (ITA), com foco em inteligência artificial e computação aplicada. Meus interesses de pesquisa incluem posicionamento regional e posicionamento, navegação e tempo resilientes (PNT).
+## Sobre Mim
 
-Quero aplicar essa base em sistemas resilientes e apoio a missões cibernéticas.
+Sou 1º Tenente da Força Aérea Brasileira (FAB), com experiência em engenharia de software, desenvolvimento de simuladores de voo militares, integração de aviônicos e sistemas computacionais aeroespaciais.
 
-## Habilidades
+Minha trajetória profissional inclui atuação na Força Aérea Brasileira, Embraer e Hewlett-Packard (HP), abrangendo desenvolvimento de software, integração de sistemas, infraestrutura de TI e liderança técnica.
 
-[![Habilidades](https://skillicons.dev/icons?i=cpp,py,js,html,css,git,github&perline=7&theme=dark)](https://skillicons.dev)
+Atualmente, trabalho com simuladores de voo militares, desenvolvendo e integrando componentes de software, sistemas aviônicos, instrumentos digitais e ambientes de realidade virtual.
 
-C++ e Python para simulação em tempo real e sistemas de aeronaves. JavaScript, HTML e CSS nos projetos de interface. Git no dia a dia.
+Sou mestrando em Ciências e Tecnologias Espaciais no Instituto Tecnológico de Aeronáutica (ITA), na área de Sistemas Espaciais, Ensaios e Lançamentos (CTE-E), com atividades acadêmicas relacionadas à simulação de satélites, sistemas GNSS/PNT, telemetria e plataformas de processamento de dados espaciais.
 
-| Área | Experiência |
-| --- | --- |
-| Desenvolvimento | C++ e Python para simulação em tempo real e sistemas de aeronaves |
-| Integração | Software, hardware, interfaces de aviônica e sistemas de cabine |
-| Simulação e treinamento | Simulação de voo, realidade virtual e realidade mista |
-| Análise operacional | Modelos de custo de manutenção, monitoramento de aeronave no solo e confiabilidade de frota |
-| Infraestrutura e liderança | Entrega de serviços de TI, gestão de incidentes, revisão de SLA e liderança de equipe |
+Tenho interesse na aplicação de inteligência artificial e segurança cibernética ao desenvolvimento de sistemas aeroespaciais críticos, especialmente simulação inteligente, detecção de anomalias, monitoramento de sistemas e resiliência operacional.
 
-## Experiência
+---
 
-### Força Aérea Brasileira — Primeiro-Tenente e engenheiro de software
-*Agosto de 2021 — atual · São José dos Campos, Brasil*
+## Competências Técnicas
 
-- Desenvolvo software de simulação de voo em tempo real e sistemas de treinamento de defesa.
-- Trabalho em sistemas de simulação e treinamento das aeronaves C-95M, A-29, C-98 e T-27.
-- Integro software com interfaces de aviônica, sistemas de cabine e hardware, inclusive em ambientes de realidade virtual e mista.
+### Desenvolvimento de Software
 
-### Embraer — Engenheiro de software
-*Abril de 2014 — agosto de 2021 · São José dos Campos, Brasil*
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py&perline=7&theme=dark" alt="C, C++, C#, Java, JavaScript, TypeScript e Python" />
+  </a>
+</p>
 
-- Atuei em plataformas de software para manutenção da aviação executiva, suporte de frota e precificação.
-- Trabalhei com modelos de custo de manutenção, Salesforce e CPQ.
-- Apoiei o monitoramento de aeronave no solo e a análise de confiabilidade de frota.
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,visualstudio&perline=5&theme=dark" alt="Git, GitHub, Docker, Linux e Visual Studio" />
+  </a>
+</p>
 
-### HP — Analista sênior de suporte de TI e líder de equipe
-*Maio de 2009 — abril de 2013 · São José dos Campos, Brasil*
+- **Linguagens:** C, C++, Python, C#, Java, JavaScript, TypeScript, SQL
+- **Engenharia:** Orientação a Objetos, Arquitetura de Software, Sistemas em Tempo Real, APIs REST
+- **Ferramentas:** Git, GitHub, Docker, Linux, Visual Studio
 
-- Apoiei a operação de infraestrutura e a entrega de serviços de TI em ambiente de manufatura.
-- Atuei na gestão de incidentes e na revisão de SLA.
-- Liderei equipe de infraestrutura e entrega de serviço.
+### Simulação de Voo e Aviônicos
 
-## Formação
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,blender&perline=2&theme=dark" alt="C++ e Blender" />
+  </a>
+</p>
 
-- **Instituto Tecnológico de Aeronáutica (ITA)** — Mestrado em Engenharia Eletrônica e Computação, com foco em inteligência artificial. 2026–2027; conclusão prevista em 2027.
-- **UniBF** — Pós-graduação em Sistemas de Informação. 2019–2021.
-- **UniBF** — MBA em Data Warehouse e Business Intelligence. 2018–2021.
-- **ETEP** — Análise e Desenvolvimento de Sistemas. 2014–2017.
-- **UNIP** — Estudos em Engenharia de Computação. 2004–2006.
+- **Simuladores:** X-Plane 12, X-Plane SDK
+- **Aviônicos:** Garmin G1000, G600, GTN, PFD/MFD, sistemas de navegação
+- **Modelagem e VR:** Blender, XPlane2Blender, SteamVR, OpenXR
+- **Engenharia:** Integração Hardware/Software, Simulação em Tempo Real, Testes de Sistemas
 
-**Pesquisa:** computação aplicada, sistemas aeroespaciais, posicionamento regional e PNT resiliente.
+### Sistemas Espaciais e Telemetria
 
-## Certificações
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,py,fastapi,postgres,react,ts&perline=6&theme=dark" alt="MATLAB, Python, FastAPI, PostgreSQL, React e TypeScript" />
+  </a>
+</p>
 
-| Certificação | Comprovante |
-| --- | --- |
-| Scrum | [Perfil no LinkedIn](https://www.linkedin.com/in/wagnermota/) |
-| ITIL | [Perfil no LinkedIn](https://www.linkedin.com/in/wagnermota/) |
+- **Simulação:** GMAT, MATLAB, Simulação Orbital, Constelações de Satélites
+- **Navegação:** GNSS, GPS, Sistemas PNT
+- **Telemetria:** Aquisição, Processamento, Armazenamento e Visualização de Dados
+- **Plataformas:** FastAPI, PostgreSQL, React, TypeScript, Leaflet
 
-**Idiomas:** português (nativo) · inglês (proficiência profissional completa)
+### Inteligência Artificial e Cyber
 
-## Projetos públicos
+**Áreas de pesquisa e interesse técnico:**
 
-- [markdown-editor](https://github.com/wagnermotamm/markdown-editor) — editor de textos Markdown com pré-visualização.
-- [osint-brazuca](https://github.com/wagnermotamm/osint-brazuca) — fontes, portais e práticas de OSINT no contexto do Brasil.
+- Inteligência Artificial Aplicada a Sistemas Críticos
+- Machine Learning e Detecção de Anomalias
+- Simulação Inteligente e Análise Preditiva
+- Engenharia de Software Seguro
+- Segurança e Resiliência de Sistemas Ciberfísicos
+- Cyber Defense e Mission Assurance
+
+### Engenharia e Testes de Sistemas Críticos
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,cpp,py&perline=3&theme=dark" alt="MATLAB, C++ e Python" />
+  </a>
+</p>
+
+**Competências e tecnologias de especialização:**
+
+- ANSYS SCADE Suite / SCADE Display
+- MATLAB / Simulink
+- Model-Based Design (MBD)
+- Software-in-the-Loop (SIL) / Hardware-in-the-Loop (HIL)
+- Verificação e Validação de Software (V&V)
+- DO-178C / DO-331
+
+---
+
+## Experiência Profissional
+
+### Força Aérea Brasileira (FAB)
+
+**1º Tenente | Engenharia de Software e Simulação Aeroespacial**  
+*2021 – Atual*
+
+Desenvolvimento, integração, manutenção e testes de sistemas de simulação de voo militar, incluindo software, aviônicos, interfaces digitais e ambientes de realidade virtual.
+
+**Principais plataformas:**
+
+- C-95 Bandeirante
+- C-98 Caravan
+- T-27 / T-27M
+- T-25
+- A-29
+
+**Tecnologias:** C++, X-Plane SDK, Garmin G1000, VR, Sistemas de Simulação.
+
+### Embraer
+
+**Engenharia de Software | Aviação Executiva**  
+*2014 – 2021*
+
+Desenvolvimento e integração de soluções de software para sistemas corporativos, manutenção, serviços aeronáuticos e processos operacionais da aviação executiva.
+
+### Hewlett-Packard (HP)
+
+**Analista Sênior de TI e Líder Técnico**  
+*2009 – 2013*
+
+Atuação em infraestrutura de TI, gerenciamento de incidentes, suporte corporativo e liderança de equipes técnicas.
+
+---
+
+## Formação Acadêmica
+
+**Instituto Tecnológico de Aeronáutica (ITA)**  
+Mestrado em Ciências e Tecnologias Espaciais — Em andamento  
+Área: Sistemas Espaciais, Ensaios e Lançamentos (CTE-E)
+
+**UniBF**
+
+- Pós-graduação em Sistemas de Informação
+- MBA em Data Warehouse e Business Intelligence
+
+**ETEP**
+
+- Análise e Desenvolvimento de Sistemas
+
+**Universidade Paulista (UNIP)**
+
+- Estudos em Engenharia de Computação
+
+---
+
+## Projetos e Pesquisa
+
+### Simuladores de Voo Militares
+
+Desenvolvimento e integração de componentes de simulação, instrumentos aviônicos e sistemas de treinamento, utilizando X-Plane, C++ e tecnologias de realidade virtual.
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,blender&perline=2&theme=dark" alt="C++ e Blender" />
+  </a>
+</p>
+
+### Sistema de Posicionamento Regional Brasileiro (SPRB)
+
+Desenvolvimento acadêmico de uma plataforma de simulação de constelações de satélites, processamento de telemetria e visualização de dados espaciais.
+
+**Tecnologias:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React.
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,py,fastapi,postgres,react&perline=5&theme=dark" alt="MATLAB, Python, FastAPI, PostgreSQL e React" />
+  </a>
+</p>
+
+### Inteligência Artificial Aplicada a Sistemas Aeroespaciais
+
+Interesse de pesquisa em IA para simulação inteligente, análise de telemetria, detecção de anomalias e sistemas computacionais de alta confiabilidade.
+
+### Cybersecurity e Sistemas Críticos
+
+Interesse em engenharia de software seguro, proteção de sistemas ciberfísicos, segurança de sistemas aeroespaciais e resiliência cibernética.
+
+---
+
+## Áreas de Interesse
+
+Aerospace Software Engineering | Military Flight Simulation | Avionics | Space Systems | Artificial Intelligence | Cyber Defense | Mission-Critical Software
+
+---
 
 ## Contato
 
-Para oportunidades e colaboração técnica:
-
-- [LinkedIn](https://www.linkedin.com/in/wagnermota/)
-- [the.wagner.mota@gmail.com](mailto:the.wagner.mota@gmail.com)
+**GitHub:** https://github.com/wagnermotamm
