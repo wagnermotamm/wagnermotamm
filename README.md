@@ -28,164 +28,104 @@ Tenho interesse na aplicação de inteligência artificial e segurança ciberné
 
 ---
 
-## Habilidades
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,lua,html,css&perline=6&theme=dark" alt="C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, Lua, HTML e CSS" />
   </a>
-</p>
-
-C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, Lua, HTML, CSS e SQL.
-
-## Ferramentas utilizadas
-
-<p align="center">
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,blender,photoshop,nodejs,npm,vue,react,wordpress,git,github,gitlab&perline=6&theme=dark" alt="Visual Studio, Blender, Photoshop, Node.js, npm, Vue, React, WordPress, Git, GitHub e GitLab" />
   </a>
-</p>
-
-<p align="center">
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,docker,linux,heroku,matlab,fastapi&perline=6&theme=dark" alt="PostgreSQL, Docker, Linux, Heroku, MATLAB e FastAPI" />
   </a>
 </p>
 
-Visual Studio 2022, Blender, Photoshop, Cursor, Node.js, npm, Vue, React, WordPress, Git, GitHub, GitLab, PostgreSQL, pgAdmin, Docker, Linux, Heroku, MATLAB, FastAPI, X-Plane 12, X-Plane SDK, OpenGL, ANSYS SCADE e Scrum.
+---
 
-## Competências Técnicas
+## 💼 Professional Experience
 
-### Desenvolvimento de Software
+### ✈️ Brazilian Air Force (FAB)
 
-- **Linguagens:** C, C++, Python, C#, Java, JavaScript, TypeScript, PHP, Lua, HTML, CSS, SQL
-- **Engenharia:** Orientação a Objetos, Arquitetura de Software, Sistemas em Tempo Real, APIs REST, Desenvolvimento full stack
-- **Ferramentas:** Git, GitHub, GitLab, Docker, Linux, Visual Studio 2022, Node.js, npm, Heroku
+**First Lieutenant | Aerospace Software Engineering & Flight Simulation**
 
-### Simulação de Voo e Aviônicos
+Develops and integrates military flight-simulation systems for aircrew training, including real-time simulation components and plugins, avionics, digital instrumentation, and aircraft interfaces. The work covers hardware-software integration, immersive virtual-reality environments, and verification, validation, testing, and system diagnostics, with emphasis on the reliability and availability of military training systems.
 
-- **Simuladores:** X-Plane 12, X-Plane SDK
-- **Aviônicos:** Garmin G1000, G600, GTN, PFD/MFD, sistemas de navegação
-- **Modelagem e VR:** Blender, XPlane2Blender, SteamVR, OpenXR
-- **Engenharia:** Integração Hardware/Software, Simulação em Tempo Real, Testes de Sistemas
+**Technologies:** C++, Python, X-Plane 12, X-Plane SDK, Garmin G1000/G600/GTN, Blender, SteamVR, OpenXR, Real-Time Systems, Software Testing, Systems Integration.
 
-### Sistemas Espaciais e Telemetria
+**Aircraft Platforms:** C-95 Bandeirante, C-98 Caravan, T-27/T-27M, T-25, A-29.
 
-- **Simulação:** GMAT, MATLAB, Simulação Orbital, Constelações de Satélites
-- **Navegação:** GNSS, GPS, Sistemas PNT
-- **Telemetria:** Aquisição, Processamento, Armazenamento e Visualização de Dados
-- **Plataformas:** FastAPI, PostgreSQL, React, TypeScript, Leaflet
+### 🛩️ Embraer
 
-### Inteligência Artificial e defesa cibernética de missão
+**Software Engineering | Executive Aviation Systems**
 
-A defesa cibernética, no meu trabalho, está ligada aos sistemas de simulação e ao planejamento de missão, inclusive nos exercícios AZUVER do Estado-Maior da Aeronáutica: proteger o software da simulação, os dados da missão e a continuidade do planejamento.
+Developed, maintained, and integrated software for executive-aviation services and maintenance, including enterprise platforms and systems that support aircraft maintenance programs and flight operations. The work included systems integration and the automation and evolution of those software processes.
 
-**Áreas de pesquisa e interesse técnico:**
+**Technologies & Expertise:** Enterprise Software, Salesforce, CPQ, Database Systems, Systems Integration, Business Process Automation.
 
-- Inteligência Artificial Aplicada a Sistemas Críticos
-- Machine Learning e Detecção de Anomalias
-- Simulação Inteligente e Análise Preditiva
-- Engenharia de Software Seguro
-- Segurança e Resiliência de Sistemas Ciberfísicos
-- Defesa cibernética de sistemas de simulação e de planejamento de missão
+### 💻 Hewlett-Packard (HP)
 
-### Engenharia e Testes de Sistemas Críticos
+**Senior IT Analyst | Infrastructure & Technical Leadership**
 
-**Competências e tecnologias de especialização:**
+Supported corporate IT infrastructure through advanced technical support and incident management, with responsibility for operational continuity, service reliability, and service levels. The role included coordination and technical leadership of support teams.
 
-- ANSYS SCADE Suite / SCADE Display
-- MATLAB / Simulink
-- Model-Based Design (MBD)
-- Software-in-the-Loop (SIL) / Hardware-in-the-Loop (HIL)
-- Verificação e Validação de Software (V&V)
-- DO-178C / DO-331
+**Technologies & Expertise:** IT Infrastructure, Windows, Linux, Networking, ITIL, Incident Management, SLA Management, Technical Leadership.
 
 ---
 
-## Experiência Profissional
+## 🎓 Education
 
-### Força Aérea Brasileira (FAB)
+### 🚀 Aeronautics Institute of Technology (ITA)
 
-**1º Tenente | Engenharia de Software e Simulação Aeroespacial**  
-*2021 – Atual*
+Master's degree program in Space Science and Technology, in progress.
 
-Desenvolvimento, integração, manutenção e testes de sistemas de simulação de voo militar, incluindo software, aviônicos, interfaces digitais e ambientes de realidade virtual. Também desenvolvo a simulação AZUVER para o Estado-Maior da Aeronáutica, usada no planejamento de missões em um cenário de conflito entre dois países.
+Graduate Program in Space Science and Technology (PG-CTE).
 
-**Principais plataformas:**
+**Concentration:** Space Systems, Testing and Launching (CTE-E).
 
-- C-95 Bandeirante
-- C-98 Caravan
-- T-27 / T-27M
-- T-25
-- A-29
+**Research focus:** Space Systems, Satellite Simulation, GNSS/PNT, Telemetry, Artificial Intelligence and Systems Engineering.
 
-**Tecnologias:** C++, X-Plane SDK, Garmin G1000, VR, Sistemas de Simulação.
+### 🎓 ETEP
 
-### Embraer
+Degree in Systems Analysis and Development.
 
-**Engenharia de Software | Aviação Executiva**  
-*2014 – 2021*
+### 🎓 UniBF
 
-Desenvolvimento e integração de soluções de software para sistemas corporativos, manutenção, serviços aeronáuticos e processos operacionais da aviação executiva.
+Postgraduate specialization in Information Systems.
 
-### Hewlett-Packard (HP)
+MBA in Data Warehouse and Business Intelligence.
 
-**Analista Sênior de TI e Líder Técnico**  
-*2009 – 2013*
+### 🎓 Universidade Paulista (UNIP)
 
-Atuação em infraestrutura de TI, gerenciamento de incidentes, suporte corporativo e liderança de equipes técnicas.
+Computer Engineering studies.
 
 ---
 
-## Formação Acadêmica
+## 🚀 Projects & Research
 
-**Instituto Tecnológico de Aeronáutica (ITA)**  
-Mestrado em Ciências e Tecnologias Espaciais — Em andamento  
-Área: Sistemas Espaciais, Ensaios e Lançamentos (CTE-E)
+### 🛫 Flight Simulation & Avionics Engineering
 
-**UniBF**
+Development and integration of flight-simulation systems, avionics instruments, real-time software components, and virtual training environments.
 
-- Pós-graduação em Sistemas de Informação
-- MBA em Data Warehouse e Business Intelligence
+**Technologies:** C++, X-Plane SDK, Avionics Integration, VR, Hardware/Software Integration.
 
-**ETEP**
+### 🛰️ Brazilian Regional Positioning System (SPRB)
 
-- Análise e Desenvolvimento de Sistemas
+Academic work on simulation and emulation of satellite constellations, telemetry acquisition and processing, and storage and visualization of space data. This is a research platform, not an operational GNSS positioning service.
 
-**Universidade Paulista (UNIP)**
+**Technologies:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React, TypeScript, Leaflet.
 
-- Estudos em Engenharia de Computação
+### 🧠 Artificial Intelligence for Aerospace Systems
 
----
+Research interest in applying artificial intelligence to aerospace simulation and mission-critical computing, rather than a fielded product.
 
-## Projetos e Pesquisa
+**Focus:** Intelligent Modeling & Simulation, AI-Driven Anomaly Detection, Telemetry Analysis, Predictive Analytics, AI for Mission-Critical Systems.
 
-### Simuladores de Voo Militares
+### 🛡️ Cybersecurity & Mission-Critical Systems
 
-Desenvolvimento e integração de componentes de simulação, instrumentos aviônicos e sistemas de treinamento, utilizando X-Plane, C++ e tecnologias de realidade virtual. Inclui a simulação AZUVER, de planejamento de missões para o Estado-Maior da Aeronáutica.
+Technical interest in secure software engineering, cyber-physical system protection, aerospace system security, cyber resilience, and verification of critical software.
 
-### Sistema de Posicionamento Regional Brasileiro (SPRB)
-
-Desenvolvimento acadêmico de uma plataforma de simulação de constelações de satélites, processamento de telemetria e visualização de dados espaciais.
-
-**Tecnologias:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React.
-
-### Inteligência Artificial Aplicada a Sistemas Aeroespaciais
-
-Interesse de pesquisa em IA para simulação inteligente, análise de telemetria, detecção de anomalias e sistemas computacionais de alta confiabilidade.
-
-### Cybersecurity e Sistemas Críticos
-
-Interesse em engenharia de software seguro, proteção de sistemas ciberfísicos, segurança de sistemas aeroespaciais e resiliência cibernética.
-
----
-
-## Áreas de Interesse
-
-Simulação de voo · Sistemas aviônicos · Inteligência artificial · Sistemas espaciais · Telemetria e posicionamento GNSS · Engenharia de software · Desenvolvimento full stack · Defesa cibernética de sistemas de simulação e missão
-
----
-
-## Contato
-
-**GitHub:** https://github.com/wagnermotamm
+**Technical Interests:** Cyber Resilience, Secure Software Engineering, Model-Based Development, ANSYS SCADE, DO-178C, SIL/HIL.
