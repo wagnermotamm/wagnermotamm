@@ -106,9 +106,9 @@ Development and integration of flight-simulation systems, avionics instruments, 
 
 ### 🛰️ Brazilian Regional Positioning System (SPRB)
 
-Academic work on simulation and emulation of satellite constellations, telemetry acquisition and processing, and storage and visualization of space data. This is a research platform, not an operational GNSS positioning service.
+Academic work on simulation and emulation of satellite constellations, telemetry acquisition and processing, and storage and visualization of space data. This is a research platform, not an operational GNSS positioning service. ANSYS SCADE Suite is used in this master's research and is separate from flight-simulator development.
 
-**Technologies:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React, TypeScript, Leaflet.
+**Technologies:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React, TypeScript, Leaflet, ANSYS SCADE Suite.
 
 ### 🧠 Artificial Intelligence for Aerospace Systems
 
@@ -120,4 +120,4 @@ Research interest in applying artificial intelligence to aerospace simulation an
 
 Technical interest in secure software engineering, cyber-physical system protection, aerospace system security, cyber resilience, and verification of critical software.
 
-**Technical Interests:** Cyber Resilience, Secure Software Engineering, Model-Based Development, ANSYS SCADE, DO-178C, SIL/HIL.
+**Technical Interests:** Cyber Resilience, Secure Software Engineering, Model-Based Development, DO-178C, SIL/HIL.
