@@ -32,15 +32,7 @@ Tenho interesse na aplicação de inteligência artificial e segurança ciberné
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,lua,html,css&perline=6&theme=dark" alt="C, C++, C#, Java, JavaScript, TypeScript, Python, PHP, Lua, HTML e CSS" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,blender,photoshop,nodejs,npm,vue,react,wordpress,git,github,gitlab&perline=6&theme=dark" alt="Visual Studio, Blender, Photoshop, Node.js, npm, Vue, React, WordPress, Git, GitHub e GitLab" />
-  </a>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,linux,heroku,matlab,fastapi&perline=6&theme=dark" alt="PostgreSQL, Docker, Linux, Heroku, MATLAB e FastAPI" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,lua,html,css,visualstudio,blender,photoshop,nodejs,npm,vue,react,wordpress,git,github,gitlab,postgres,docker,linux,windows,heroku,matlab,fastapi,powershell&perline=10&theme=dark" alt="Technologies and tools" />
   </a>
 </p>
 
