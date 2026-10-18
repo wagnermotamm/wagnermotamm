@@ -1,66 +1,84 @@
 # Wagner Mota
 
-**Software Engineer | Aerospace & Defense Systems | C++ & Python**
+**Engenheiro de software · Sistemas aeroespaciais e de defesa · C++ e Python**
 
-Brazilian Air Force officer and software engineer working on real-time flight simulation, aircraft-system software, and mission-critical systems. My experience spans defense training systems, executive aviation platforms at Embraer, and infrastructure operations and team leadership at HP.
+Oficial da Força Aérea Brasileira e engenheiro de software. Construo simulação de voo em tempo real, software de sistemas de aeronaves e sistemas de missão crítica.
 
-I am pursuing a master's degree in Electronics and Computer Engineering at the Aeronautics Institute of Technology (ITA), with a focus on artificial intelligence and applied computing. My research interests include regional positioning and resilient positioning, navigation, and timing (PNT).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wagner%20Mota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnermota/)
+[![Email](https://img.shields.io/badge/Email-the.wagner.mota%40gmail.com-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.wagner.mota@gmail.com)
 
-I am interested in applying this background to resilient systems and cyber mission support.
+## Sobre
 
-[LinkedIn](https://www.linkedin.com/in/wagnermota/) · [Email](mailto:the.wagner.mota@gmail.com)
+Trabalho com sistemas de treinamento de defesa, plataformas de aviação executiva na Embraer e operação de infraestrutura com liderança de equipe na HP.
 
-## Engineering expertise
+Estou no mestrado em Engenharia Eletrônica e Computação no Instituto Tecnológico de Aeronáutica (ITA), com foco em inteligência artificial e computação aplicada. Meus interesses de pesquisa incluem posicionamento regional e posicionamento, navegação e tempo resilientes (PNT).
 
-| Area | Experience |
+Quero aplicar essa base em sistemas resilientes e apoio a missões cibernéticas.
+
+## Habilidades
+
+[![Habilidades](https://skillicons.dev/icons?i=cpp,py,js,html,css,git,github&perline=7&theme=dark)](https://skillicons.dev)
+
+C++ e Python para simulação em tempo real e sistemas de aeronaves. JavaScript, HTML e CSS nos projetos de interface. Git no dia a dia.
+
+| Área | Experiência |
 | --- | --- |
-| Software development | C++ and Python for real-time simulation and aircraft systems |
-| Systems integration | Software, hardware, avionics interfaces, and cockpit systems |
-| Simulation and training | Flight simulation, virtual reality, and mixed reality environments |
-| Operational analytics | Maintenance-cost models, aircraft-on-ground monitoring, and fleet reliability analysis |
-| Infrastructure and leadership | IT service delivery, incident management, SLA reviews, and team leadership |
+| Desenvolvimento | C++ e Python para simulação em tempo real e sistemas de aeronaves |
+| Integração | Software, hardware, interfaces de aviônica e sistemas de cabine |
+| Simulação e treinamento | Simulação de voo, realidade virtual e realidade mista |
+| Análise operacional | Modelos de custo de manutenção, monitoramento de aeronave no solo e confiabilidade de frota |
+| Infraestrutura e liderança | Entrega de serviços de TI, gestão de incidentes, revisão de SLA e liderança de equipe |
 
-## Professional experience
+## Experiência
 
-### Brazilian Air Force — First Lieutenant & Software Engineer
-*August 2021–present · São José dos Campos, Brazil*
+### Força Aérea Brasileira — Primeiro-Tenente e engenheiro de software
+*Agosto de 2021 — atual · São José dos Campos, Brasil*
 
-- Develop software for real-time flight simulation and defense training systems.
-- Work on simulation and training systems for C-95M, A-29, C-98, and T-27 aircraft.
-- Integrate software with avionics interfaces, cockpit systems, and hardware, including virtual and mixed reality training environments.
+- Desenvolvo software de simulação de voo em tempo real e sistemas de treinamento de defesa.
+- Trabalho em sistemas de simulação e treinamento das aeronaves C-95M, A-29, C-98 e T-27.
+- Integro software com interfaces de aviônica, sistemas de cabine e hardware, inclusive em ambientes de realidade virtual e mista.
 
-### Embraer — Software Engineer
-*April 2014–August 2021 · São José dos Campos, Brazil*
+### Embraer — Engenheiro de software
+*Abril de 2014 — agosto de 2021 · São José dos Campos, Brasil*
 
-- Worked on software platforms for executive aviation maintenance, fleet support, and pricing.
-- Worked with maintenance-cost models, Salesforce, and CPQ.
-- Supported aircraft-on-ground monitoring and fleet reliability analysis.
+- Atuei em plataformas de software para manutenção da aviação executiva, suporte de frota e precificação.
+- Trabalhei com modelos de custo de manutenção, Salesforce e CPQ.
+- Apoiei o monitoramento de aeronave no solo e a análise de confiabilidade de frota.
 
-### HP — Senior IT Support Analyst & Team Lead
-*May 2009–April 2013 · São José dos Campos, Brazil*
+### HP — Analista sênior de suporte de TI e líder de equipe
+*Maio de 2009 — abril de 2013 · São José dos Campos, Brasil*
 
-- Supported infrastructure operations and IT service delivery in manufacturing environments.
-- Worked on incident management and SLA reviews.
-- Held team leadership responsibilities in infrastructure and service delivery.
+- Apoiei a operação de infraestrutura e a entrega de serviços de TI em ambiente de manufatura.
+- Atuei na gestão de incidentes e na revisão de SLA.
+- Liderei equipe de infraestrutura e entrega de serviço.
 
-## Education and research
+## Formação
 
-- **Aeronautics Institute of Technology (ITA)** — Master's studies in Electronics and Computer Engineering, with a focus on artificial intelligence. 2026–2027; expected completion in 2027.
-- **UniBF** — Postgraduate degree in Information Systems. 2019–2021.
-- **UniBF** — MBA in Data Warehouse and Business Intelligence. 2018–2021.
-- **ETEP** — Systems Analysis and Development. 2014–2017.
-- **UNIP** — Studies in Computer Engineering. 2004–2006.
+- **Instituto Tecnológico de Aeronáutica (ITA)** — Mestrado em Engenharia Eletrônica e Computação, com foco em inteligência artificial. 2026–2027; conclusão prevista em 2027.
+- **UniBF** — Pós-graduação em Sistemas de Informação. 2019–2021.
+- **UniBF** — MBA em Data Warehouse e Business Intelligence. 2018–2021.
+- **ETEP** — Análise e Desenvolvimento de Sistemas. 2014–2017.
+- **UNIP** — Estudos em Engenharia de Computação. 2004–2006.
 
-**Research interests:** applied computing, aerospace systems, regional positioning, and resilient PNT.
+**Pesquisa:** computação aplicada, sistemas aeroespaciais, posicionamento regional e PNT resiliente.
 
-## Certification and languages
+## Certificações
 
-- **Certification:** ITIL
-- **Languages:** Portuguese (native) · English (full professional proficiency)
+| Certificação | Comprovante |
+| --- | --- |
+| Scrum | [Perfil no LinkedIn](https://www.linkedin.com/in/wagnermota/) |
+| ITIL | [Perfil no LinkedIn](https://www.linkedin.com/in/wagnermota/) |
 
-## Contact
+**Idiomas:** português (nativo) · inglês (proficiência profissional completa)
 
-For professional opportunities and technical collaboration:
+## Projetos públicos
+
+- [markdown-editor](https://github.com/wagnermotamm/markdown-editor) — editor de textos Markdown com pré-visualização.
+- [osint-brazuca](https://github.com/wagnermotamm/osint-brazuca) — fontes, portais e práticas de OSINT no contexto do Brasil.
+
+## Contato
+
+Para oportunidades e colaboração técnica:
 
 - [LinkedIn](https://www.linkedin.com/in/wagnermota/)
 - [the.wagner.mota@gmail.com](mailto:the.wagner.mota@gmail.com)
