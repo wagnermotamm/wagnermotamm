@@ -1,123 +1,83 @@
 # Wagner Mota
 
-### Brazilian Air Force Officer | Aerospace & Defense Software Engineer
+### Brazilian Air Force Officer | Aerospace and Defense Software Engineer
 
 <p align="center">
-  <strong>Simulação de voo | Sistemas aviônicos | Inteligência artificial | Sistemas espaciais | Telemetria e posicionamento GNSS | Engenharia de software | Desenvolvimento full stack | Defesa cibernética de sistemas de simulação e missão</strong>
+  <strong>Military Flight Simulation Systems · Real-Time Simulation Software · Avionics Software Integration · Hardware-Software Integration · Simulation and Training Systems</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/wagnermotamm">
-    <img src="https://img.shields.io/badge/GitHub-wagnermotamm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+First Lieutenant in the Brazilian Air Force, working in software engineering for military flight simulation and training systems.
+
+My background also includes software development and systems integration at Embraer, and IT infrastructure support at Hewlett-Packard (HP).
+
+I am a master's student at the Aeronautics Institute of Technology (ITA), working on satellite simulation, telemetry, and space-data processing. I am interested in software reliability, testing, and secure development for aerospace and simulation systems.
 
 ---
 
-## Sobre Mim
-
-Sou 1º Tenente da Força Aérea Brasileira (FAB), com experiência em engenharia de software, desenvolvimento de simuladores de voo militares, integração de aviônicos e sistemas computacionais aeroespaciais.
-
-Minha trajetória profissional inclui atuação na Força Aérea Brasileira, Embraer e Hewlett-Packard (HP), abrangendo desenvolvimento de software, integração de sistemas, infraestrutura de TI e liderança técnica.
-
-Atualmente, trabalho com simuladores de voo militares, desenvolvendo e integrando componentes de software, sistemas aviônicos, instrumentos digitais e ambientes de realidade virtual. Para o Estado-Maior da Aeronáutica, também participo de simulações de planejamento operacional conhecidas como AZUVER: um cenário de conflito entre dois países, usado para estudar e planejar as missões.
-
-Sou mestrando em Ciências e Tecnologias Espaciais no Instituto Tecnológico de Aeronáutica (ITA), na área de Sistemas Espaciais, Ensaios e Lançamentos (CTE-E), com atividades acadêmicas relacionadas à simulação de satélites, sistemas GNSS/PNT, telemetria e plataformas de processamento de dados espaciais.
-
-Tenho interesse na aplicação de inteligência artificial e segurança cibernética ao desenvolvimento de sistemas aeroespaciais críticos, especialmente simulação inteligente, detecção de anomalias, monitoramento de sistemas e resiliência operacional.
-
----
-
-## 🛠️ Technologies & Tools
+## Technical Skills & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,py,php,lua,html,css,visualstudio,blender,photoshop,nodejs,npm,vue,react,wordpress,git,github,gitlab,postgres,docker,linux,windows,heroku,matlab,fastapi,powershell&perline=10&theme=dark" alt="Technologies and tools" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,react,nodejs,fastapi,postgres,matlab,blender,git,github,linux,windows,powershell&perline=9&theme=dark" alt="Technical skills and tools" />
   </a>
 </p>
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
-### ✈️ Brazilian Air Force (FAB)
+### Brazilian Air Force
 
-**First Lieutenant | Aerospace Software Engineering & Flight Simulation**
+**First Lieutenant | Software Engineering and Flight Simulation**
 
-Develops and integrates military flight-simulation systems for aircrew training, including real-time simulation components and plugins, avionics, digital instrumentation, and aircraft interfaces. The work covers hardware-software integration, immersive virtual-reality environments, and verification, validation, testing, and system diagnostics, with emphasis on the reliability and availability of military training systems.
+Develops and integrates software for military flight simulation and aircrew training. The work includes real-time simulation software, avionics software integration, hardware-software integration, virtual training environments, troubleshooting, and verification and validation of training systems.
 
-**Technologies:** C++, Python, X-Plane 12, X-Plane SDK, Garmin G1000/G600/GTN, Blender, SteamVR, OpenXR, Real-Time Systems, Software Testing, Systems Integration.
+**Technologies:** C++, Python
 
-**Aircraft Platforms:** C-95 Bandeirante, C-98 Caravan, T-27/T-27M, T-25, A-29.
-
-### 🛩️ Embraer
+### Embraer
 
 **Software Engineering | Executive Aviation Systems**
 
-Developed, maintained, and integrated software for executive-aviation services and maintenance, including enterprise platforms and systems that support aircraft maintenance programs and flight operations. The work included systems integration and the automation and evolution of those software processes.
+Developed and maintained software for executive-aviation maintenance and fleet-support services. The work included systems integration, Salesforce and CPQ, database-backed applications, and automation of existing support processes.
 
-**Technologies & Expertise:** Enterprise Software, Salesforce, CPQ, Database Systems, Systems Integration, Business Process Automation.
+**Technologies:** Salesforce, CPQ, databases
 
-### 💻 Hewlett-Packard (HP)
+### Hewlett-Packard (HP)
 
-**Senior IT Analyst | Infrastructure & Technical Leadership**
+**Senior IT Analyst | IT Infrastructure**
 
-Supported corporate IT infrastructure through advanced technical support and incident management, with responsibility for operational continuity, service reliability, and service levels. The role included coordination and technical leadership of support teams.
+Provided advanced technical support for corporate IT infrastructure, including incident management and follow-up on service levels. The work included coordination of support activities on Windows and Linux systems.
 
-**Technologies & Expertise:** IT Infrastructure, Windows, Linux, Networking, ITIL, Incident Management, SLA Management, Technical Leadership.
+**Technologies:** Windows, Linux, networking, ITIL
 
 ---
 
-## 🎓 Education
+## Education
 
-### 🚀 Aeronautics Institute of Technology (ITA)
+### Aeronautics Institute of Technology (ITA)
 
-Master's degree program in Space Science and Technology, in progress.
+Master's student in Space Science and Technology (PG-CTE), in progress. Concentration in Space Systems, Testing and Launching (CTE-E). Academic work includes satellite simulation, telemetry, and GNSS/PNT topics.
 
-Graduate Program in Space Science and Technology (PG-CTE).
-
-**Concentration:** Space Systems, Testing and Launching (CTE-E).
-
-**Research focus:** Space Systems, Satellite Simulation, GNSS/PNT, Telemetry, Artificial Intelligence and Systems Engineering.
-
-### 🎓 ETEP
+### ETEP
 
 Degree in Systems Analysis and Development.
 
-### 🎓 UniBF
+### UniBF
 
 Postgraduate specialization in Information Systems.
 
 MBA in Data Warehouse and Business Intelligence.
 
-### 🎓 Universidade Paulista (UNIP)
+### Universidade Paulista (UNIP)
 
 Computer Engineering studies.
 
 ---
 
-## 🚀 Projects & Research
+## Selected Projects
 
-### 🛫 Flight Simulation & Avionics Engineering
+### Brazilian Regional Positioning System (SPRB)
 
-Development and integration of flight-simulation systems, avionics instruments, real-time software components, and virtual training environments.
+Academic work on simulation of satellite constellations, telemetry acquisition and processing, and storage and visualization of space data. This is a research activity, not an operational positioning service. Model-based work in this research is separate from flight-simulation development.
 
-**Technologies:** C++, X-Plane SDK, Avionics Integration, VR, Hardware/Software Integration.
-
-### 🛰️ Brazilian Regional Positioning System (SPRB)
-
-Academic work on simulation and emulation of satellite constellations, telemetry acquisition and processing, and storage and visualization of space data. This is a research platform, not an operational GNSS positioning service. ANSYS SCADE Suite is used in this master's research and is separate from flight-simulator development.
-
-**Technologies:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React, TypeScript, Leaflet, ANSYS SCADE Suite.
-
-### 🧠 Artificial Intelligence for Aerospace Systems
-
-Research interest in applying artificial intelligence to aerospace simulation and mission-critical computing, rather than a fielded product.
-
-**Focus:** Intelligent Modeling & Simulation, AI-Driven Anomaly Detection, Telemetry Analysis, Predictive Analytics, AI for Mission-Critical Systems.
-
-### 🛡️ Cybersecurity & Mission-Critical Systems
-
-Technical interest in secure software engineering, cyber-physical system protection, aerospace system security, cyber resilience, and verification of critical software.
-
-**Technical Interests:** Cyber Resilience, Secure Software Engineering, Model-Based Development, DO-178C, SIL/HIL.
+**Technologies:** Python, FastAPI, PostgreSQL, React, TypeScript, MATLAB, GMAT, Leaflet, ANSYS SCADE Suite
