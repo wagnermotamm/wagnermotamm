@@ -6,11 +6,9 @@
   <strong>Military Flight Simulation Systems · Real-Time Simulation Software · Avionics Software Integration · Hardware-Software Integration · Simulation and Training Systems</strong>
 </p>
 
-First Lieutenant in the Brazilian Air Force. I work in software engineering for military flight simulation and training systems, including avionics software integration and related aerospace software.
+First Lieutenant in the Brazilian Air Force, working in software engineering for military flight simulation and training systems.
 
 My background also includes software development and systems integration at Embraer, and IT infrastructure support at Hewlett-Packard (HP).
-
-In the current assignment I develop and integrate real-time simulation software, connect software with avionics and training hardware, and support troubleshooting, testing, and verification of simulation and training systems.
 
 I am a master's student at the Aeronautics Institute of Technology (ITA), working on satellite simulation, telemetry, and space-data processing. I am interested in software reliability, testing, and secure development for aerospace and simulation systems.
 
