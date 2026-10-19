@@ -6,9 +6,9 @@
   <strong>Military Flight Simulation Systems · Real-Time Simulation Software · Avionics Software Integration · Hardware-Software Integration · Simulation and Training Systems</strong>
 </p>
 
-First Lieutenant in the Brazilian Air Force. I develop, maintain, integrate, and test software for military flight simulation and training systems, including real-time simulation, avionics integration, 3D content, and virtual reality.
+First Lieutenant in the Brazilian Air Force. I develop, maintain, integrate, and test software for military flight simulation and training systems, from real-time simulation and avionics integration to 3D content and virtual reality.
 
-My background also includes enterprise software at Embraer and corporate IT infrastructure at Hewlett-Packard (HP). I hold a bachelor's degree in computer science and I am a master's student in Space Science and Technology at the Aeronautics Institute of Technology (ITA).
+My background also includes enterprise software for executive aviation at Embraer and corporate IT infrastructure at Hewlett-Packard (HP). I hold a bachelor's degree in computer science and I am a master's student in Space Science and Technology at the Aeronautics Institute of Technology (ITA), working on satellite simulation and telemetry.
 
 ---
 
@@ -28,7 +28,7 @@ My background also includes enterprise software at Embraer and corporate IT infr
 
 **First Lieutenant | Aerospace Software Engineering & Flight Simulation**
 
-Develops, maintains, integrates, and tests software for military flight simulation and aircrew training. The work includes real-time simulation and plugins, avionics and digital-instrument integration, 3D asset integration, virtual-reality environments, hardware-software integration, troubleshooting, and verification and validation.
+Develops, maintains, integrates, and tests software for military flight simulation and aircrew training. The work covers real-time simulation and plugins, avionics and digital instrumentation, 3D modeling and asset integration, virtual-reality environments, hardware-software integration, troubleshooting, software testing, and verification and validation.
 
 **Technologies:** C++, Python, X-Plane 12, X-Plane SDK, Blender, XPlane2Blender, Plane Maker, Fusion 360, OBJ8, SteamVR, OpenXR, Garmin G1000/G600/GTN
 
@@ -36,7 +36,7 @@ Develops, maintains, integrates, and tests software for military flight simulati
 
 **Software Engineering | Executive Aviation Systems**
 
-Developed and maintained enterprise applications for executive-aviation services and aircraft maintenance support. The work included systems integration, business-process automation, and software maintenance.
+Developed and maintained enterprise applications for executive-aviation services and aircraft maintenance support. The work included systems integration, database-backed applications, business-process automation, and software maintenance.
 
 **Technologies:** Salesforce, CPQ, database systems
 
@@ -44,7 +44,7 @@ Developed and maintained enterprise applications for executive-aviation services
 
 **Senior IT Analyst | Infrastructure & Technical Leadership**
 
-Supported corporate IT infrastructure through advanced technical support, incident management, and service-level management, with technical leadership of support activities.
+Provided advanced technical support for corporate IT infrastructure. Responsibilities included incident management, service-level management, systems troubleshooting, and technical leadership of support activities.
 
 **Technologies:** Windows, Linux, networking, PowerShell, ITIL
 
@@ -54,7 +54,7 @@ Supported corporate IT infrastructure through advanced technical support, incide
 
 ### Aeronautics Institute of Technology (ITA)
 
-Master's degree program in Space Science and Technology, in progress.
+Master's degree in Space Science and Technology, in progress.
 
 Concentration: Space Systems, Testing and Launching (CTE-E).
 
@@ -76,7 +76,7 @@ Computer Engineering studies.
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 | Certification | Issuer | Credential ID |
 | --- | --- | --- |
@@ -94,15 +94,17 @@ Certification details are also listed on my [LinkedIn profile](https://br.linked
 
 ### Flight Simulation & Avionics Engineering
 
-Development, integration, and testing of flight-simulation software, including real-time components, plugins, avionics integration, 3D assets, and virtual-reality training environments.
+Development, integration, and testing of real-time flight-simulation software, including plugins, avionics integration, 3D assets, and virtual-reality training environments.
 
 **Technologies:** C++, Python, X-Plane 12, X-Plane SDK, Blender, XPlane2Blender, Plane Maker, Fusion 360, OBJ8, SteamVR, OpenXR
 
 ### Brazilian Regional Positioning System (SPRB)
 
-Academic research platform for satellite-constellation simulation, telemetry processing, REST APIs, and visualization of space data. This is not an operational positioning service. Model-based work with ANSYS SCADE Suite belongs to this master's research and is separate from flight-simulation development.
+Experimental academic platform for satellite-constellation simulation, telemetry processing, storage, and visualization of space data. Python and FastAPI provide the backend and REST APIs. PostgreSQL stores the data. React, TypeScript, and Leaflet present the results. GMAT and MATLAB support the orbital simulation and analysis.
 
-**Technologies:** GMAT, MATLAB, Python, FastAPI, PostgreSQL, React, TypeScript, Leaflet, ANSYS SCADE Suite
+ANSYS SCADE Suite is used in this master's research for model-based development. That work is separate from military flight-simulation development. This platform is not an operational positioning service.
+
+**Technologies:** ANSYS SCADE Suite, GMAT, MATLAB, Python, FastAPI, PostgreSQL, React, TypeScript, Leaflet
 
 ### Artificial Intelligence for Aerospace Systems
 
@@ -110,4 +112,4 @@ Research interest in intelligent simulation, anomaly detection, telemetry analys
 
 ### Cybersecurity & Mission-Critical Systems
 
-Technical interest in cyber resilience, secure software engineering, systems security, and cyber-physical systems. Includes study of the DO-178C software-assurance standard and of software-in-the-loop and hardware-in-the-loop methods.
+Technical interest in cyber resilience, secure software engineering, systems security, and cyber-physical systems, including study of the DO-178C software-assurance standard and of software-in-the-loop and hardware-in-the-loop methods.
