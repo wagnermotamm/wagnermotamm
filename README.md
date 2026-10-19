@@ -8,7 +8,7 @@
 
 First Lieutenant in the Brazilian Air Force. I develop, maintain, integrate, and test software for military flight simulation and training systems, from real-time simulation and avionics integration to 3D content and virtual reality.
 
-My background also includes enterprise software for executive aviation at Embraer and corporate IT infrastructure at Hewlett-Packard (HP). I hold a bachelor's degree in computer science and I am a master's student in Space Science and Technology at the Aeronautics Institute of Technology (ITA), working on satellite simulation and telemetry.
+My background also includes full-stack enterprise software for executive aviation at Embraer and corporate IT infrastructure at Hewlett-Packard (HP). I hold a bachelor's degree in computer science and I am a master's student in Space Science and Technology at the Aeronautics Institute of Technology (ITA), working on satellite simulation and telemetry.
 
 ---
 
@@ -36,9 +36,9 @@ Develops, maintains, integrates, and tests software for military flight simulati
 
 **Software Engineering | Executive Aviation Systems**
 
-Developed and maintained enterprise applications for executive-aviation services and aircraft maintenance support. The work included systems integration, database-backed applications, business-process automation, and software maintenance.
+Sole developer of the full-stack web software for executive-aviation maintenance, fleet support, and pricing. The application covered maintenance-cost models, aircraft-on-ground monitoring, fleet reliability analysis, and integration with Salesforce and CPQ.
 
-**Technologies:** Salesforce, CPQ, database systems
+**Technologies:** Node.js, JavaScript, Backbone, Marionette.js, PostgreSQL, Heroku, Salesforce, CPQ
 
 ### 💻 Hewlett-Packard (HP)
 
