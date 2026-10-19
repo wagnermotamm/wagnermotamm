@@ -76,6 +76,20 @@ Computer Engineering studies.
 
 ---
 
+## Certifications
+
+| Certification | Issuer | Credential ID |
+| --- | --- | --- |
+| Professional Scrum Master II (PSM II) | Scrum.org | 1194953 |
+| Professional Scrum Product Owner II (PSPO II) | Scrum.org | 1220652 |
+| Professional Scrum Facilitation Skills (PSF Skills) | Scrum.org | 1296122 |
+
+These certifications complement my technical background with Scrum mastery, product ownership, and team facilitation.
+
+Certification details are also listed on my [LinkedIn profile](https://br.linkedin.com/in/wagnermota).
+
+---
+
 ## 🛰️ Projects & Research
 
 ### Flight Simulation & Avionics Engineering
