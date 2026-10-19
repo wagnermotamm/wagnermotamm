@@ -12,7 +12,7 @@ My background also includes enterprise software at Embraer and corporate IT infr
 
 ---
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,9 +22,9 @@ My background also includes enterprise software at Embraer and corporate IT infr
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-### Brazilian Air Force
+### ✈️ Brazilian Air Force
 
 **First Lieutenant | Aerospace Software Engineering & Flight Simulation**
 
@@ -32,7 +32,7 @@ Develops, maintains, integrates, and tests software for military flight simulati
 
 **Technologies:** C++, Python, X-Plane 12, X-Plane SDK, Blender, XPlane2Blender, Plane Maker, Fusion 360, OBJ8, SteamVR, OpenXR, Garmin G1000/G600/GTN
 
-### Embraer
+### 🛩️ Embraer
 
 **Software Engineering | Executive Aviation Systems**
 
@@ -40,7 +40,7 @@ Developed and maintained enterprise applications for executive-aviation services
 
 **Technologies:** Salesforce, CPQ, database systems
 
-### Hewlett-Packard (HP)
+### 💻 Hewlett-Packard (HP)
 
 **Senior IT Analyst | Infrastructure & Technical Leadership**
 
@@ -50,7 +50,7 @@ Supported corporate IT infrastructure through advanced technical support, incide
 
 ---
 
-## Education
+## 🎓 Education
 
 ### Aeronautics Institute of Technology (ITA)
 
@@ -76,7 +76,7 @@ Computer Engineering studies.
 
 ---
 
-## Projects & Research
+## 🛰️ Projects & Research
 
 ### Flight Simulation & Avionics Engineering
 
